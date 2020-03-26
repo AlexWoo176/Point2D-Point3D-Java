@@ -1,7 +1,8 @@
 package classes.point;
 
 public class Point2D {
-    private float x, y = 0.0f;
+    private float x = 0.0f;
+    private float y = 0.0f;
 
     public Point2D() {
 
