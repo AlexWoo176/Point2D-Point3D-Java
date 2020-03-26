@@ -35,8 +35,8 @@ public class Point3D extends Point2D {
     @Override
     public String toString() {
         return "A Point3D with z is "
-                + getZ() +
-                ", which is a subclass of "
+                + getZ()
+                + ", which is a subclass of "
                 + super.toString();
     }
 }
