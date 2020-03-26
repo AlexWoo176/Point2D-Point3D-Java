@@ -43,6 +43,8 @@ public class Point2D {
     @Override
     public String toString() {
         return "A Point2D with x is "
-                + getX() + " and y is " + getY();
+                + getX()
+                + " and y is "
+                + getY();
     }
 }

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b17acb3-b953-4ee8-ae50-bafd30165cae" name="Default Changelist" comment="" />
+    <list default="true" id="7b17acb3-b953-4ee8-ae50-bafd30165cae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZegpnEFYJVvcLgLCUPH4M2QMeX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -55,7 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585205158359</updated>
       <workItem from="1585205159630" duration="2174000" />
-      <workItem from="1585207411106" duration="519000" />
+      <workItem from="1585207411106" duration="724000" />
+      <workItem from="1585208164304" duration="82000" />
     </task>
     <servers />
   </component>
@@ -67,21 +74,25 @@
       <screen x="0" y="27" width="1600" height="802" />
     </state>
     <state x="608" y="114" width="544" height="626" key="#com.intellij.ide.util.MemberChooser/0.27.1600.802@0.27.1600.802" timestamp="1585207423993" />
-    <state width="1554" height="196" key="GridCell.Tab.0.bottom" timestamp="1585207903795">
+    <state width="1554" height="196" key="GridCell.Tab.0.bottom" timestamp="1585208134617">
       <screen x="0" y="27" width="1600" height="802" />
     </state>
-    <state width="1554" height="196" key="GridCell.Tab.0.bottom/0.27.1600.802@0.27.1600.802" timestamp="1585207903795" />
-    <state width="1554" height="196" key="GridCell.Tab.0.center" timestamp="1585207903795">
+    <state width="1554" height="196" key="GridCell.Tab.0.bottom/0.27.1600.802@0.27.1600.802" timestamp="1585208134617" />
+    <state width="1554" height="196" key="GridCell.Tab.0.center" timestamp="1585208134611">
       <screen x="0" y="27" width="1600" height="802" />
     </state>
-    <state width="1554" height="196" key="GridCell.Tab.0.center/0.27.1600.802@0.27.1600.802" timestamp="1585207903795" />
-    <state width="1554" height="196" key="GridCell.Tab.0.left" timestamp="1585207903795">
+    <state width="1554" height="196" key="GridCell.Tab.0.center/0.27.1600.802@0.27.1600.802" timestamp="1585208134611" />
+    <state width="1554" height="196" key="GridCell.Tab.0.left" timestamp="1585208134609">
       <screen x="0" y="27" width="1600" height="802" />
     </state>
-    <state width="1554" height="196" key="GridCell.Tab.0.left/0.27.1600.802@0.27.1600.802" timestamp="1585207903795" />
-    <state width="1554" height="196" key="GridCell.Tab.0.right" timestamp="1585207903795">
+    <state width="1554" height="196" key="GridCell.Tab.0.left/0.27.1600.802@0.27.1600.802" timestamp="1585208134609" />
+    <state width="1554" height="196" key="GridCell.Tab.0.right" timestamp="1585208134613">
       <screen x="0" y="27" width="1600" height="802" />
     </state>
-    <state width="1554" height="196" key="GridCell.Tab.0.right/0.27.1600.802@0.27.1600.802" timestamp="1585207903795" />
+    <state width="1554" height="196" key="GridCell.Tab.0.right/0.27.1600.802@0.27.1600.802" timestamp="1585208134613" />
+    <state x="109" y="29" width="1372" height="796" key="new project wizard" timestamp="1585208245939">
+      <screen x="0" y="27" width="1600" height="802" />
+    </state>
+    <state x="109" y="29" width="1372" height="796" key="new project wizard/0.27.1600.802@0.27.1600.802" timestamp="1585208245939" />
   </component>
 </project>
